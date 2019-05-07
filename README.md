@@ -1,5 +1,8 @@
 # luck_draw_demo
 
+## css 洗牌效果抽奖动画 及 顶部内容无限动
+
+
 ## Project setup
 ```
 npm install
@@ -27,3 +30,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 最近项目中需求，希望和大家交流指正
