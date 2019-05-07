@@ -298,7 +298,6 @@ export default {
 }
 .sw-container{
     display: flex;
-    align-items: center;
     justify-content: center;
     overflow: scroll;
 }
