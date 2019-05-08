@@ -79,6 +79,7 @@
       </div>
     </div>
   </div>
+    <img class="sw-bgimg" src="../assets/swbg.png" alt="">
     <mt-popup
       v-model="popupVisible"
       popup-transition="popup-fade"
@@ -366,6 +367,7 @@ export default {
 }
 
 .sw-bgimg{
+    height:100%;
     width: 23.44rem;
 }
 #box {
