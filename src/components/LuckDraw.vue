@@ -110,14 +110,14 @@ export default {
   data() {
     return {
       winnerslist:[
-          'XX获得了 iPhoneX','XX获得了 iPhoneX','XX获得了 iPhoneX',
-            'XX获得了 iPhoneX','XX获得了 iPhoneX',
-            'XX获得了 iPhoneX','XX获得了 iPhoneX',
-            'XX获得了 iPhoneX','XX获得了 iPhoneX',
-            'XX获得了 iPhoneX','XX获得了 iPhoneX',
-            'XX获得了 iPhoneX','XX获得了 iPhoneX',
-            'XX获得了 iPhoneX','XX获得了 iPhoneX',
-            'XX获得了 iPhoneX'
+          'X111X获得了 iPhoneX','X222X获得了 iPhoneX','X222333X获得了 iPhoneX',
+            'X445X获得了 iPhoneX','X455656X获得了 iPhoneX',
+            'X24577X获得了 iPhoneX','X666X获得了 iPhoneX',
+            'X777X获得了 iPhoneX','X888X获得了 iPhoneX',
+            'XfoqweX获得了 iPhone121X','XefaffafX获得了 iPhoneX',
+            'XafsgsX获得了 iPhoneqerqX','XX获得了 iPhoneX MAX',
+            'XgnfgX获得了 iPhoneX','sfgergrX获得了 iPhoneX',
+            'XsfgerwX获得了 iPhoneX'
       ], 
       drawArr:[],//抽奖结果数组
       drawResult:{}, //抽奖结果
